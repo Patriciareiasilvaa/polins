@@ -3,8 +3,6 @@ A C program that receives a file as input and analyze first if is a valid polyno
 
 
 # Input file
-
-## in1
 Explain file input by lines:
 
   - 1# - the number of polynomials to analyze
