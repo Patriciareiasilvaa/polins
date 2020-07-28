@@ -6,10 +6,11 @@ A C program that receives a file as input and analyze first if is a valid polyno
 
 ## in1
 Explain file input by lines:
-1# - the number of polynomials to analyze
-2# - how many members polynomial have
-3# - the terms 
-...
+
+  - 1# - the number of polynomials to analyze
+  - 2# - how many members polynomial have
+  - 3# - the terms 
+  - ...
 
 
 # Run it
